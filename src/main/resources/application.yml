@@ -1,6 +1,6 @@
 spring:
   datasource:
-    password: hieu112004
+    password: password
     url: jdbc:mysql://localhost:3306/jooq_test
     username: root
     hikari:
